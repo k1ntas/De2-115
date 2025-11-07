@@ -1,0 +1,54 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/courses/TSTE12/proj/projgrp01
+Ecodec_controller
+Z0 w1762512841
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 8
+Z4 d/home/simha158/de2-115/Personalproject/Personalproject_lib/modelsim/work
+Z5 8/home/simha158/de2-115/Personalproject/Personalproject_lib/hdl/CODEC_Controller_CC.vhd
+Z6 F/home/simha158/de2-115/Personalproject/Personalproject_lib/hdl/CODEC_Controller_CC.vhd
+l0
+L14 1
+V0FLzFL3Gjc6n4TSW<8]>=1
+!s100 dTb>?Dn7Tk>`M97XGdFid1
+Z7 OL;C;2021.3;73
+33
+Z8 !s110 1762512843
+!i10b 1
+Z9 !s108 1762512843.000000
+Z10 !s90 -work|Personalproject_lib|-nologo|-2008|-f|/tmp/Files0|
+Z11 !s107 /home/simha158/de2-115/Personalproject/Personalproject_lib/hdl/CODEC_Controller_CC.vhd|
+!i113 0
+Z12 o-nologo -work Personalproject_lib -2008
+Z13 tExplicit 1 CvgOpt 0
+Acc
+R1
+R2
+R3
+Z14 DEx4 work 16 codec_controller 0 22 0FLzFL3Gjc6n4TSW<8]>=1
+!i122 8
+l33
+L27 88
+V5]G7nW]BllcDnIE_Pb>oT2
+!s100 @Jo2IOj2WS:GFY0Vd_V821
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13

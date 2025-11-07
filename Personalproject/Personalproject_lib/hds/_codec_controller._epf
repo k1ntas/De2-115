@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom CC
+DEFAULT_FILE atom CODEC_Controller_CC.vhd

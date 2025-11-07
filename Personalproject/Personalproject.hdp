@@ -1,0 +1,13 @@
+[ModelSim]
+Personalproject_lib = $HDS_PROJECT_DIR/Personalproject_lib/modelsim
+[hdl]
+Personalproject_lib = $HDS_PROJECT_DIR/Personalproject_lib/hdl
+[hds]
+Personalproject_lib = $HDS_PROJECT_DIR/Personalproject_lib/hds
+[hds_settings]
+default_library = Personalproject_lib
+version = 3
+[library_type]
+Personalproject_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
